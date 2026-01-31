@@ -1,0 +1,8 @@
+
+{
+  "name": "Smart Hostel Issue Tracking System",
+  "description": "A comprehensive digital platform for hostel management, allowing students to report issues, admins to manage maintenance workflows, and caretakers to resolve infrastructure problems efficiently.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
